@@ -1,0 +1,71 @@
+body{
+  background-image: url("https://awesomewallpapers.files.wordpress.com/2010/05/sky-2.png?w=906");
+  <!-- photo credit:https://awesomewallpapers.files.wordpress.com/2010/05/sky-2.png?w=906 -->
+}
+
+
+.animal-name {
+  font-size: 200%;
+  padding: 0 15px;
+  
+}
+
+
+.container {
+    width: 320px;
+    margin: auto;
+    border: 1px solid #bcbfc4;
+    box-shadow:  10px 10px #bcbfc4;
+    border-radius: 5px;
+    padding: 20px;
+    background-image: url("https://static.pexels.com/photos/60561/winter-snow-nature-60561.jpeg");
+<!-- photo credit:https://static.pexels.com/photos/60561/winter-snow-nature-60561.jpeg -->
+}
+
+.image {
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  display: block;
+  border:1px solid #bcbfc4;
+  box-shadow:  10px 10px #bcbfc4;
+  border-radius: 5px;
+  
+}
+
+.main-content {
+  width: 300px;
+  margin: 10px;
+  border: 2px solid #bcbfc4;
+  box-sizing: 200px 300px;
+  border-radius: 5px;
+  box-shadow: 5px 5px #bcbfc4;
+
+}
+
+.interesting-fact {
+  font-style: italic;
+}
+
+.source {
+  cursor: pointer;
+}
+
+p {
+  padding: 0 10px;
+}
+
+.list{
+  list-style: none;
+  padding: 0 10px;
+
+}
+
+span{
+  font-style: normal;
+  font-weight: bold;
+}
+
+li{
+  font-style: italic;
+}
